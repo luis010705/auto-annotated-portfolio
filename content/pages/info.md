@@ -175,8 +175,58 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experiência:'
-        text: |+
+        text: >+
           **Técnico de hardware**
+
+
+          *   Aprendizagem de técnicas de Hardware (em contexto de sala de aula)
+
+
+          *   Resolução de problemas técnicos nos computadores da escola
+
+
+          *   Resolução de problemas de Sistemas Operativos
+
+
+          **Programador**
+
+
+          *   Aprendizagem de línguas (em contexto de sala de aula)Trabalho 
+
+
+
+
+          **Trabalho** 
+
+
+          *   Part-Time em empresa de construção 
+
+
+          *   Formação 133 horas Covipor - Companhia Vidreira do Porto,
+          Lda(2024)
+
+
+          *   Part-Time no Café Do Rio e Confeitaria Thyrsense(2024-Atual)
+
+
+          **Desporto**
+
+
+          *   Jogador Federado na Equipa Fc Rodange 91 (Luxemburgo) 2013-2021
+
+
+          *   Jogador Federado na Equipa C.C.R.Raimonda (Portugal) 2022-2024
+
+
+
+
+
+
+
+
+
+
+
 
         styles:
           self:
