@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Portfolio",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -27,16 +27,9 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/luis010705/auto-annotated-portfolio",
                 "icon": "github"
             }
         ],
@@ -58,7 +51,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "a14349@oficina.pt",
                 "altText": ""
             },
             {
@@ -70,25 +63,30 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/luis010705/auto-annotated-portfolio",
                 "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+351 915 304 823",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "a14349@oficina.pt",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "253 Rua Central, Rebordões, SantoTirso",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
