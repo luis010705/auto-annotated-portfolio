@@ -15,10 +15,10 @@ sections:
     backgroundSize: full
     title: LUis MIguel sousa Machado
     subtitle: >-
-      Sou o Luis tenho 19 anos.Encontro-me a frequentar o terceiro ano do curso
-      de Técnico de Gestão e Programação de Sistemas Informáticos.Considero que
+      Sou o Luis tenho 19 anos. Encontro-me a frequentar o terceiro ano do curso
+      de Técnico de Gestão e Programação de Sistemas Informáticos. Considero que
       sou uma pessoa educada, sociável e trabalhador. Profissionalmente possuo
-      um interesse particular em Hardware
+      um interesse particular em Hardware.
     styles:
       self:
         height: auto
