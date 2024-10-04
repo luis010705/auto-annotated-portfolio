@@ -174,7 +174,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Experiência:'
         text: |-
           **Current**
 
