@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/pexels-felixmittermeier-956999.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
