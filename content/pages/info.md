@@ -205,18 +205,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: Percurso Académica
-        text: |-
-          **2015-2018**
+        text: |+
+          *   LMA - Lycée Mathias Adam, 2021-2022(Luxemburgo)
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
 
-          * react certificate somewhere
+          *   OFICINA - Escola Profissional Do Instituto Nun’Alvres (2022-atual)
 
-          **2011**
 
-          * my highschool
+
         styles:
           self:
             textAlign: left
