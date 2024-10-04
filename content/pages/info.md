@@ -17,7 +17,8 @@ sections:
       ## Sou o Luis tenho 19 anos. Encontro-me a frequentar o terceiro ano do
       curso de Técnico de Gestão e Programação de Sistemas Informáticos.
       Considero que sou uma pessoa educada, sociável e trabalhador.
-      Profissionalmente possuo um interesse particular em Hardware.
+      Profissionalmente possuo um interesse particular em Hardware e
+      Programação.
 
     media:
       type: ImageBlock
