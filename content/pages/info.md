@@ -125,16 +125,16 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+            label: Twitter
+            url: 'https://twitter.com/'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: GitHub
+            url: 'https://github.com/'
         styles:
           self:
             textAlign: left
