@@ -126,7 +126,7 @@ sections:
         actions:
           - type: Link
             label: ''
-            url: 'https://twitter.com/'
+            url: ''
         styles:
           self:
             textAlign: left
