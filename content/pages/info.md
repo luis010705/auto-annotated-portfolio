@@ -204,7 +204,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: Percurso Academico
         text: |-
           **2015-2018**
 
