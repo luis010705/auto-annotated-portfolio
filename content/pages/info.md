@@ -125,14 +125,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: ''
-            url: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: GitHub
             url: 'https://github.com/'
         styles:
