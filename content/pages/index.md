@@ -97,7 +97,7 @@ sections:
         label: Inglês
         url: ''
       - type: Label
-        label: Netlify
+        label: Luxemburguês
         url: ''
       - type: Label
         label: Pancakes
