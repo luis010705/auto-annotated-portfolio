@@ -91,7 +91,7 @@ sections:
         label: Francês
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Alemão
         url: ''
       - type: Label
         label: Next.js
