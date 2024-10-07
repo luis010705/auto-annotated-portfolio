@@ -56,12 +56,6 @@ sections:
       sou uma pessoa educada, sociável e trabalhador. Profissionalmente possuo
       um interesse particular em Hardware e Programação.
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
