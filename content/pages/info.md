@@ -121,7 +121,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Competencias:'
     items:
       - type: Label
         label: Frances
