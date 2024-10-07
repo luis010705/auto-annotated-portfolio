@@ -100,7 +100,7 @@ sections:
       self:
         width: wide
         padding:
-          - pt-14
+          - pt-20
           - pb-20
           - pl-4
           - pr-4
