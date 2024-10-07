@@ -78,7 +78,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderWidth: 7
+        borderWidth: 0
       title:
         textAlign: left
         fontWeight: 400
