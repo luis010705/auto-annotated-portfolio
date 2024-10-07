@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Luis Miguel                                 Sousa Machado
+    title: >-
+      Luis Miguel                                 Sousa
+      Machado                                                            
     subtitle: ''
     styles:
       self:
