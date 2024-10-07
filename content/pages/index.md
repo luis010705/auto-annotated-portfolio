@@ -103,7 +103,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: Programação
+        label: Excel
         url: ''
       - type: Label
         label: Swift
