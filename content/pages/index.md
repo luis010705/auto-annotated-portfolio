@@ -258,7 +258,7 @@ sections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: F
+    title: 'Formação em Contexto de Trabalho '
     subtitle: ''
     images:
       - type: ImageBlock
