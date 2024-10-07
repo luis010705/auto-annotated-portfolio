@@ -42,12 +42,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/Captura de ecrã 2024-10-07 113820.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: HeroSection
     title: ''
     subtitle: >-
