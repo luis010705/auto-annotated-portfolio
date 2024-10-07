@@ -138,7 +138,7 @@ sections:
       - type: Label
         label: Programaçao
       - type: Label
-        label: Swift
+        label: ''
   - type: DividerSection
     styles:
       self:
