@@ -45,8 +45,6 @@ sections:
       - type: Label
         label: Alemao
       - type: Label
-        label: Luxemburgues
-      - type: Label
         label: Hardware
       - type: Label
         label: software
