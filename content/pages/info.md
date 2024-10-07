@@ -130,7 +130,7 @@ sections:
       - type: Label
         label: Alemao
       - type: Label
-        label: Next.js
+        label: Luxemburgues
       - type: Label
         label: Netlify
       - type: Label
