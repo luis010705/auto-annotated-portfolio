@@ -34,12 +34,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
                 "url": "a14349@oficina.pt",
                 "altText": ""
