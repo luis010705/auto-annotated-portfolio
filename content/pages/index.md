@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Luis Miguel Sousa Machado
-    subtitle: interesse particular em Hardware.
+    subtitle: ''
     styles:
       self:
         height: auto
