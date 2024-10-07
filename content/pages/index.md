@@ -103,7 +103,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: C++
+        label: Programação
         url: ''
       - type: Label
         label: Swift
