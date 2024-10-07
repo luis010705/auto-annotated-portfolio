@@ -56,7 +56,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: HeroSection
-    title: ''
+    title: Sobre Mim
     subtitle: >-
       Sou o Luis tenho 19 anos. Encontro-me a frequentar o terceiro ano do curso
       de Técnico de Gestão e Programação de Sistemas Informáticos. Considero que
