@@ -137,8 +137,6 @@ sections:
         label: software
       - type: Label
         label: Programaçao
-      - type: Label
-        label: ''
   - type: DividerSection
     styles:
       self:
