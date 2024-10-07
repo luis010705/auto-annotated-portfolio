@@ -132,7 +132,7 @@ sections:
       - type: Label
         label: Luxemburgues
       - type: Label
-        label: Netlify
+        label: Hardware
       - type: Label
         label: Pancakes
       - type: Label
