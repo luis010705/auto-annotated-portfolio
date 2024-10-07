@@ -76,7 +76,7 @@ sections:
         justifyContent: flex-start
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/Captura de ecrã 2024-10-07 113820.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
