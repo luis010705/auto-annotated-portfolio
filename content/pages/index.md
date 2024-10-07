@@ -93,6 +93,19 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: LabelsSection
     title: Competências
     subtitle: ''
@@ -137,19 +150,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: DividerSection
     title: Divider
     elementId: ''
