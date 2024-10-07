@@ -10,44 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 50
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >+
-      ## Sou o Luis tenho 19 anos. Encontro-me a frequentar o terceiro ano do
-      curso de Técnico de Gestão e Programação de Sistemas Informáticos.
-      Considero que sou uma pessoa educada, sociável e trabalhador.
-      Profissionalmente possuo um interesse particular em Hardware e
-      Programação.
-
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: DividerSection
     styles:
       self:
