@@ -128,7 +128,7 @@ sections:
       - type: Label
         label: Portuges
       - type: Label
-        label: Microsoft Office
+        label: Alemao
       - type: Label
         label: Next.js
       - type: Label
