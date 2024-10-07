@@ -100,7 +100,7 @@ sections:
         label: Luxemburguês
         url: ''
       - type: Label
-        label: Pancakes
+        label: Hardware
         url: ''
       - type: Label
         label: C++
