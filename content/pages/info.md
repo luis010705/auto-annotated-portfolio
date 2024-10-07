@@ -46,13 +46,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |+
-      a14349\@oficina.pt
-
   - type: DividerSection
     styles:
       self:
