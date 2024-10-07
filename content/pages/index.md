@@ -106,7 +106,7 @@ sections:
         label: Programação
         url: ''
       - type: Label
-        label: Swift
+        label: Excel
         url: ''
     colors: colors-f
     elementId: ''
