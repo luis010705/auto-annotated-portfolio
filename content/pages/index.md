@@ -88,7 +88,7 @@ sections:
         label: Português
         url: ''
       - type: Label
-        label: React
+        label: Francês
         url: ''
       - type: Label
         label: Microsoft Office
