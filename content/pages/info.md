@@ -22,7 +22,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Captura de ecrã 2024-10-07 113820.png
       altText: Hero image
     styles:
       self:
