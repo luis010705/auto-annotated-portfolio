@@ -121,24 +121,22 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Competencias:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Frances
       - type: Label
-        label: React
+        label: Portuges
       - type: Label
-        label: Microsoft Office
+        label: Alemao
       - type: Label
-        label: Next.js
+        label: Luxemburgues
       - type: Label
-        label: Netlify
+        label: Hardware
       - type: Label
-        label: Pancakes
+        label: software
       - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: Programaçao
   - type: DividerSection
     styles:
       self:
