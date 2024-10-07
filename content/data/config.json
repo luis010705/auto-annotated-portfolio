@@ -46,12 +46,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/luis010705/auto-annotated-portfolio",
                 "altText": "Netlify templates"
