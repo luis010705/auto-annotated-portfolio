@@ -258,7 +258,7 @@ sections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: F
     subtitle: ''
     images:
       - type: ImageBlock
