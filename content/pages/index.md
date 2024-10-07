@@ -94,7 +94,7 @@ sections:
         label: Alemão
         url: ''
       - type: Label
-        label: Next.js
+        label: Inglês
         url: ''
       - type: Label
         label: Netlify
