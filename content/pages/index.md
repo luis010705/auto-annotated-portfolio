@@ -257,17 +257,4 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-20
-          - pb-20
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
 ---
