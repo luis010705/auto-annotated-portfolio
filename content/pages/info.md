@@ -134,7 +134,7 @@ sections:
       - type: Label
         label: Hardware
       - type: Label
-        label: Pancakes
+        label: software
       - type: Label
         label: C++
       - type: Label
