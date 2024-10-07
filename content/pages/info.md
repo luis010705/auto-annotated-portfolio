@@ -34,22 +34,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Competencias:'
-    items:
-      - type: Label
-        label: Frances
-      - type: Label
-        label: Portuges
-      - type: Label
-        label: Alemao
-      - type: Label
-        label: Hardware
-      - type: Label
-        label: software
-      - type: Label
-        label: Programaçao
   - type: DividerSection
     styles:
       self:
