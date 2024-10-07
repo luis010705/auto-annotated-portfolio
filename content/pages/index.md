@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Luis Miguel\_ Sousa Machado"
+    title: "Luis Miguel\_        Sousa Machado"
     subtitle: ''
     styles:
       self:
