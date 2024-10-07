@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/e7034032-80de-40ff-9153-8db608ae6c86.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
