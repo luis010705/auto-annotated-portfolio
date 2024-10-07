@@ -126,7 +126,7 @@ sections:
       - type: Label
         label: Frances
       - type: Label
-        label: React
+        label: Portuges
       - type: Label
         label: Microsoft Office
       - type: Label
