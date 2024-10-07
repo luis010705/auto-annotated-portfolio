@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/e7034032-80de-40ff-9153-8db608ae6c86.jpg
+      url: /images/Captura de ecrã 2024-10-07 113820.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
