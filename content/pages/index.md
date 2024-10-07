@@ -94,19 +94,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-20
-          - pb-20
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: TextSection
     colors: colors-f
     variant: variant-a
