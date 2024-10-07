@@ -262,7 +262,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/1720600696132-Photoroom.png
         altText: logo one
         caption: ''
         elementId: ''
