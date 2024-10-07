@@ -136,7 +136,7 @@ sections:
       - type: Label
         label: software
       - type: Label
-        label: C++
+        label: Programaçao
       - type: Label
         label: Swift
   - type: DividerSection
