@@ -31,14 +31,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "a14349@oficina.pt",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
