@@ -365,7 +365,7 @@ sections:
           Neste Trabalho utilizei o bootsrap para desenvolver um formulário para
           dar login no site da Oficina
         name: ''
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/smartmockups_loctpg0r.jpg
