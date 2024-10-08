@@ -422,7 +422,7 @@ sections:
           que a empresa faz. 
 
         name: ''
-        title: Product Marketing Manager at Acme
+        title: '#redes #oficina #wordpress #gpsi'
         image:
           type: ImageBlock
           url: /images/2.PNG
