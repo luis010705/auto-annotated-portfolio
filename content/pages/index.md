@@ -402,7 +402,7 @@ sections:
           cidadãos inseridos. 
 
         name: ''
-        title: ''
+        title: '#xampp #gpsi #oficina #cliente-servidor'
         image:
           type: ImageBlock
           altText: John Doe
