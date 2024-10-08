@@ -406,6 +406,7 @@ sections:
           altText: John Doe
           caption: Caption of the image
           elementId: ''
+          url: /images/1.PNG
         elementId: ''
         styles:
           name:
