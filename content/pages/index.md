@@ -379,10 +379,9 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >+
-          Neste projeto Criar uma página de Wordpress, uma loja online -
-          comércio eletrónico.
-
+        quote: >
+          Neste projeto realizei uma pagina de wordpress, uma loja online -
+          Comercio Eletrónico 
         name: ''
         title: ''
         image:
