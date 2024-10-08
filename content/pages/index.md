@@ -318,11 +318,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/smartmockups_loctpg0r.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/gallery-2.jpg
         altText: Image two
         caption: Image two caption
