@@ -402,7 +402,7 @@ sections:
           cidadãos inseridos. 
 
         name: ''
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           altText: John Doe
