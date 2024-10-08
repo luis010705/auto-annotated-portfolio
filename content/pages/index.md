@@ -315,7 +315,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: Trabalhos realizados
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
