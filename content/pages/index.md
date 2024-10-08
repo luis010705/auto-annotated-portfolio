@@ -401,7 +401,7 @@ sections:
           inserir cidadãos e depois da para pesquisar pelo nome se houver muitos
           cidadãos inseridos. 
 
-        name: John Doe
+        name: ''
         title: CEO at Parks
         image:
           type: ImageBlock
