@@ -421,7 +421,7 @@ sections:
           sobre uma empresa de lavagem de carros e diz todo tipo de trabalhos
           que a empresa faz. 
 
-        name: Johnna Doe
+        name: ''
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
