@@ -364,7 +364,7 @@ sections:
         quote: >
           Neste Trabalho utilizei o bootsrap com HTML para desenvolver um
           formulário para dar login no site da Oficina
-        name: ''
+        name: '#html #bootstrap #oficina #gpsi'
         title: ''
         image:
           type: ImageBlock
