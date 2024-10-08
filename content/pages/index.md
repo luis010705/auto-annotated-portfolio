@@ -396,16 +396,19 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
+        quote: >+
+          Neste Trabalho Desenvolvi uma pagina web com Xampp. O trabalho e sobre
+          inserir cidadãos e depois da para pesquisar pelo nome se houver muitos
+          cidadãos inseridos. 
+
+        name: ''
+        title: '#xampp #gpsi #oficina #cliente-servidor'
         image:
           type: ImageBlock
           altText: John Doe
           caption: Caption of the image
           elementId: ''
+          url: /images/1.PNG
         elementId: ''
         styles:
           name:
@@ -413,14 +416,16 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        quote: >+
+          Neste Trabalho desenvolvi uma pagina web com Wordpress. A pagina e
+          sobre uma empresa de lavagem de carros e diz todo tipo de trabalhos
+          que a empresa faz. 
+
+        name: ''
+        title: '#redes #oficina #wordpress #gpsi'
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/2.PNG
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
@@ -430,7 +435,7 @@ sections:
             fontWeight: 400
           title:
             fontWeight: 400
-    colors: colors-d
+    colors: colors-f
     variant: variant-c
     elementId: ''
     styles:
@@ -438,8 +443,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-28
+          - pt-0
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
