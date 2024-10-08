@@ -314,7 +314,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: MediaGallerySection
-    title: Gallery
+    title: Trabalhos realizados
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
