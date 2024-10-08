@@ -316,27 +316,7 @@ sections:
   - type: MediaGallerySection
     title: Trabalhos realizados
     subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
+    images: []
     colors: colors-f
     spacing: 16
     columns: 4
@@ -349,8 +329,8 @@ sections:
         height: auto
         width: full
         padding:
-          - pt-12
-          - pb-12
+          - pt-20
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
@@ -362,13 +342,67 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
+          Neste Trabalho utilizei o bootsrap com HTML para desenvolver um
+          formulário para dar login no site da Oficina
+        name: '#html #bootstrap #oficina #gpsi'
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/smartmockups_loctpg0r.jpg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          Neste projeto realizei uma pagina de wordpress, uma loja online -
+          Comercio Eletrónico 
+        name: ''
+        title: '#woocommerce #gpsi #oficina #redes #lojaonline'
+        image:
+          type: ImageBlock
+          url: /images/Capturar.PNG
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-20
+          - pb-20
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
         name: John Doe
         title: CEO at Parks
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
