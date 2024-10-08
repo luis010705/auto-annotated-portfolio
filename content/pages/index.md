@@ -383,7 +383,7 @@ sections:
           Neste projeto realizei uma pagina de wordpress, uma loja online -
           Comercio Eletrónico 
         name: ''
-        title: ''
+        title: '#woocommerce #gpsi #oficina #redes #lojaonline'
         image:
           type: ImageBlock
           url: /images/Capturar.PNG
