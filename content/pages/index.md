@@ -362,8 +362,8 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+          Neste Trabalho utilizei o bootsrap para desenvolver um formulário para
+          dar login no site da Oficina
         name: ''
         title: CEO at Parks
         image:
