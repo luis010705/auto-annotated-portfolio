@@ -362,8 +362,8 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
-          Neste Trabalho utilizei o bootsrap para desenvolver um formulário para
-          dar login no site da Oficina
+          Neste Trabalho utilizei o bootsrap com HTML para desenvolver um
+          formulário para dar login no site da Oficina
         name: ''
         title: ''
         image:
